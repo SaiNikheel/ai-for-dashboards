@@ -1,3 +1,6 @@
+
+![Logo](https://github.com/user-attachments/assets/f54994dd-26f1-4572-9a97-f0c553e4c631)
+
 # 📊 AI-Powered Dashboard Insights 
 
 Welcome to Phase 1 of the **AI-Powered Dashboard Insight Platform**. This backend service takes uploaded CSV data, detects chart types, performs data analysis, and generates insights via a chatbot interface powered by LLMs.
