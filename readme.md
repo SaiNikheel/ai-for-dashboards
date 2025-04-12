@@ -40,7 +40,7 @@ This is the foundation for a future open-source AI dashboard assistant.
 ---
 
 ## 🏗️ Architecture
-
+![AI in dashboard phase-1](https://github.com/user-attachments/assets/57d49285-e19c-40d8-b2eb-93d55a74047f)
 
 ---
 
