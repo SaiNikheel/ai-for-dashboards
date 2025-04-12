@@ -1,5 +1,4 @@
 
-![Logo](https://github.com/user-attachments/assets/f54994dd-26f1-4572-9a97-f0c553e4c631)
 
 # 📊 AI-Powered Dashboard Insights 
 
