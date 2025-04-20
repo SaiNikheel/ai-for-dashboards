@@ -1,0 +1,6 @@
+TechStore Inc. is a retail business that sells electronics and office equipment. We operate in four regions: North, South, East, and West. Our product categories include Electronics, Accessories, and Furniture. We have two types of customers: Premium and Regular. We want to analyze our sales performance, customer behavior, and product profitability across different regions and customer segments. Please help us understand:
+1. Sales trends over time
+2. Regional performance
+3. Product category performance
+4. Customer segment analysis
+5. Profitability by product 
